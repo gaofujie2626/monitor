@@ -1,8 +1,8 @@
 ## 服务器监控demo  
 1. 项目地址:  
- -- github：https://github.com/gaofujie2626/monitor.git
- -- gitee：https://gitee.com/smlhd/monitor.git
-使用步骤：
+ -- github：https://github.com/gaofujie2626/monitor.git  
+ -- gitee：https://gitee.com/smlhd/monitor.git  
+#### 使用步骤：
 -------
 1.克隆代码  
 `git clone https://gitee.com/smlhd/monitor.git`  
